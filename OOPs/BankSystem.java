@@ -78,7 +78,7 @@ class SavingsAccount extends BankAccount {
 
     @Override
     public void displayAccountType() {
-        System.out.println("Account Category: Premium Savings Account ⭐");
+        System.out.println("Account Category: Premium Savings Account");
     }
 }
 
